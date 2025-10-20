@@ -27,6 +27,7 @@
 
 1. Команда: rsync -avh --checksum --exclude=".*" ~/ /tmp/backup/
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4771d5ba-2559-4c2b-b80b-4b213fb85409" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/361fbba7-6fba-4d77-ae55-1f36b79db668" />
 
 2. `Заполните здесь этапы выполнения, если требуется ....`
 3. `Заполните здесь этапы выполнения, если требуется ....`
