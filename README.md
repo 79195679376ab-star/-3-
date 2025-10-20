@@ -30,8 +30,10 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/361fbba7-6fba-4d77-ae55-1f36b79db668" />
 
 ### Задание 2
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75897262-c620-46d6-8dab-3dadb9abf888" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ede64b6b-6885-4524-b501-bf4fe0d5429a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/56dc0848-289c-4c54-bf5a-e30088a68ed8" />
+
 
 
