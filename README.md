@@ -29,7 +29,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4771d5ba-2559-4c2b-b80b-4b213fb85409" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/361fbba7-6fba-4d77-ae55-1f36b79db668" />
 
-### Задание 2
+### Задание 2h
+ttps://github.com/79195679376ab-star/-3-/blob/main/backup_home.sh
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75897262-c620-46d6-8dab-3dadb9abf888" />
 
